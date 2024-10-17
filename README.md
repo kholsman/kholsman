@@ -1,4 +1,4 @@
-## Hi there, I'm Kirstin 👋
+## About me
 
 I am a Research Fishery Biologist with the Resource Ecology and Ecosystem Modeling team at NOAA’s Alaska Fisheries Science Center in Seattle. My research focuses on developing quantitative methods to support climate-ready Ecosystem-Based Management for the North Pacific and Arctic marine ecosystems. I work in multidisciplinary collaborations to provide information, advice, and tools that help resource managers and decision-makers effectively respond to climate change and associated shocks.
 
