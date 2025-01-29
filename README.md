@@ -23,3 +23,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+#### Project pages include:
+- Project overview for ACLIM2 and ACLIM3 : TBD
+
+#### Public repositories include:
+- The 2023 Multispecies Stock Assessment for the Bering Sea, AK  https://github.com/kholsman/2023_Multispp_assessment
+- The 2020 CEATTLE ACLIM2 simulations (Holsman et al. 2020) https://github.com/kholsman/ACLIM-CEATTLE
+- Repo for ACLIM2 simulations and data wrangling https://github.com/kholsman/ACLIM2
+- Repo for the 2023 Tipping Points workshop https://github.com/kholsman/Tipping-Points
+- Repo for the ICES workshop for climate aware advice (WKCLIMAD) https://github.com/kholsman/WKCLIMAD
+
